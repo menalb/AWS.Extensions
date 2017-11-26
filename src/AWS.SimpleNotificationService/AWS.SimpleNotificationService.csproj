@@ -54,10 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Gateways\AWSSNSPublisher.cs" />
-    <Compile Include="Gateways\INotificationPublisher.cs" />
-    <Compile Include="Infrastructure\AWSSNSConfigSection.cs" />
-    <Compile Include="Infrastructure\AWSSNSMapping.cs" />
+    <Compile Include="Publishing\AWSSNSPublisher.cs" />
+    <Compile Include="Publishing\INotificationPublisher.cs" />
+    <Compile Include="Mapping\AWSSNSConfigSection.cs" />
+    <Compile Include="Mapping\AWSSNSMapping.cs" />
     <Compile Include="Models\MessageBase.cs" />
     <Compile Include="Models\PublishResult.cs" />
     <Compile Include="Models\TopicARNMapping.cs" />

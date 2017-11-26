@@ -3,3 +3,8 @@
 ################################################################################
 
 /src/.vs/AWS.Extensions/v15
+/src/AWS.SimpleNotificationService/obj/Debug
+/src/AWS.SimpleNotificationService.Tests/bin/Debug
+/src/AWS.SimpleNotificationService.Tests/obj/Debug
+/src/packages
+/src/AWS.SimpleNotificationService/bin/Debug
